@@ -98,4 +98,4 @@ In conclusion, this podcast streaming application provides users with an easy-to
 
 For any questions or inquiries, please reach out to the development team at [sunrise96208@gmail.com]
 
-Enjoy using Trackify and stay productive!
+Enjoy using my project and stay productive!
