@@ -1,10 +1,5 @@
 # Podstream
-<div align='center'>
-
-![GitHub issues](https://img.shields.io/github/issues/rishavchanda/Podstream)
-![GitHub forks](https://img.shields.io/github/forks/rishavchanda/Podstream)
-![GitHub starts](https://img.shields.io/github/stars/rishavchanda/Podstream)
-![GitHub license](https://img.shields.io/github/license/rishavchanda/Podstream)
+<div align='center'
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
 ![CSS](https://img.shields.io/badge/CSS-Styles-pink)
@@ -98,3 +93,9 @@ npm start
 ## Conclusion
 
 In conclusion, this podcast streaming application provides users with an easy-to-use platform for listening to their favorite podcasts. With features such as user authentication, podcast search, and an admin panel for creating and adding new podcasts, this application offers a comprehensive solution for podcast streaming. 
+
+## Contact
+
+For any questions or inquiries, please reach out to the development team at [sunrise96208@gmail.com]
+
+Enjoy using Trackify and stay productive!
